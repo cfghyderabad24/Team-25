@@ -1,0 +1,4102 @@
+[
+  {
+    "UserId": "a04b9647-df81-4c51-9e32-f7d306f8103a",
+    "firstName": "Justin",
+    "lastName": "Haynes",
+    "pincode": 58785,
+    "aadharNumber": 892945350911,
+    "phoneNo": 7570028381,
+    "villageName": "Hyderabad",
+    "areaPloughed": 2.97,
+    "season": "Rabi",
+    "crop": "Orange",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 17.58
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "13/06/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "05/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "13/06/24",
+      "dayOne": "19/06/24",
+      "dayTwo": "30/06/24",
+      "dayThree": "01/07/24",
+      "dayFour": "09/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "06/06/24",
+      "dayTwo": "21/06/24"
+    },
+    "dateHarvesting": "02/10/24",
+    "yield": 943.87
+  },
+  {
+    "UserId": "8d614d55-b7b6-4059-a88f-9827e2520139",
+    "firstName": "Alexandra",
+    "lastName": "Franklin",
+    "pincode": 35840,
+    "aadharNumber": 26036328930,
+    "phoneNo": 6517044175,
+    "villageName": "Chennai",
+    "areaPloughed": 8.6,
+    "season": "Rabi",
+    "crop": "Coffee",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 23.14
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "11/03/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "01/06/24",
+      "second": "21/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "12/06/24",
+      "dayTwo": "24/06/24",
+      "dayThree": "17/07/24",
+      "dayFour": "18/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "10/06/24",
+      "dayTwo": "25/06/24"
+    },
+    "dateHarvesting": "10/06/24",
+    "yield": 1155.74
+  },
+  {
+    "UserId": "44b4ec84-28d5-4a74-aeff-f07d5aed4450",
+    "firstName": "Victoria",
+    "lastName": "Booth",
+    "pincode": 70285,
+    "aadharNumber": 514576845856,
+    "phoneNo": 8125754638,
+    "villageName": "Mumbai",
+    "areaPloughed": 2.21,
+    "season": "Rabi",
+    "crop": "Sugarcane",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 19.6
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "08/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "15/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "01/07/24",
+      "dayTwo": "04/07/24",
+      "dayThree": "01/08/24",
+      "dayFour": "11/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "16/06/24",
+      "dayTwo": "01/07/24"
+    },
+    "dateHarvesting": "04/08/24",
+    "yield": 3690.06
+  },
+  {
+    "UserId": "81967b0e-0097-4cbb-a6f5-90b7c40baac6",
+    "firstName": "Caitlin",
+    "lastName": "Hughes",
+    "pincode": 98175,
+    "aadharNumber": 428952342890,
+    "phoneNo": 8051136929,
+    "villageName": "Bangalore",
+    "areaPloughed": 8.78,
+    "season": "Kharif",
+    "crop": "Soybean",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 16.19
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "08/03/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "25/06/24",
+      "dayTwo": "15/07/24",
+      "dayThree": "04/08/24",
+      "dayFour": "15/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "05/07/24",
+    "yield": 3286.85
+  },
+  {
+    "UserId": "6a321877-8a79-4b11-8493-1db3152ef747",
+    "firstName": "Daniel",
+    "lastName": "King",
+    "pincode": 69130,
+    "aadharNumber": 671532276989,
+    "phoneNo": 8466468290,
+    "villageName": "Chennai",
+    "areaPloughed": 2.75,
+    "season": "Rabi",
+    "crop": "Carrot",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 13.6
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "12/01/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "03/06/24",
+      "second": "02/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "08/06/24",
+      "dayOne": "22/06/24",
+      "dayTwo": "06/07/24",
+      "dayThree": "14/07/24",
+      "dayFour": "17/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "15/06/24",
+      "dayTwo": "30/06/24"
+    },
+    "dateHarvesting": "18/04/24",
+    "yield": 1613.23
+  },
+  {
+    "UserId": "2af2d3ad-b182-48f4-bc9e-aa7a32f117f7",
+    "firstName": "Brandon",
+    "lastName": "Williams",
+    "pincode": 88995,
+    "aadharNumber": 533530850935,
+    "phoneNo": 6158650979,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.78,
+    "season": "Rabi",
+    "crop": "Grapes",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 27.08
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "24/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "06/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "15/06/24",
+      "dayOne": "27/06/24",
+      "dayTwo": "21/07/24",
+      "dayThree": "12/08/24",
+      "dayFour": "31/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "05/06/24",
+      "dayTwo": "20/06/24"
+    },
+    "dateHarvesting": "26/07/24",
+    "yield": 2694.82
+  },
+  {
+    "UserId": "b9ec9144-9919-47d6-b69c-a943f036cf36",
+    "firstName": "Christina",
+    "lastName": "Gates",
+    "pincode": 63163,
+    "aadharNumber": 31114808814,
+    "phoneNo": 6461312284,
+    "villageName": "Chennai",
+    "areaPloughed": 6.88,
+    "season": "Rabi",
+    "crop": "Soybean",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 17.09
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "11/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "10/06/24",
+      "second": "18/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "17/06/24",
+      "dayOne": "08/07/24",
+      "dayTwo": "11/07/24",
+      "dayThree": "22/07/24",
+      "dayFour": "24/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "04/06/24",
+    "yield": 3498.29
+  },
+  {
+    "UserId": "68d48a34-8e74-4094-822f-9fd6d32610b3",
+    "firstName": "Mary",
+    "lastName": "Benson",
+    "pincode": 56787,
+    "aadharNumber": 100469579346,
+    "phoneNo": 9427476033,
+    "villageName": "Bangalore",
+    "areaPloughed": 2.33,
+    "season": "Rabi",
+    "crop": "Cotton",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 11.96
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "01/06/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "22/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "06/06/24",
+      "dayOne": "12/06/24",
+      "dayTwo": "19/06/24",
+      "dayThree": "18/07/24",
+      "dayFour": "25/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "08/09/24",
+    "yield": 600.77
+  },
+  {
+    "UserId": "746a3e0e-d2cd-447f-8e09-06654e3160a7",
+    "firstName": "Brett",
+    "lastName": "Lin",
+    "pincode": 35378,
+    "aadharNumber": 42633796902,
+    "phoneNo": 6651670496,
+    "villageName": "Hyderabad",
+    "areaPloughed": 5.65,
+    "season": "Rabi",
+    "crop": "Carrot",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 25.23
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "09/05/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "16/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "18/06/24",
+      "dayOne": "14/07/24",
+      "dayTwo": "11/08/24",
+      "dayThree": "07/09/24",
+      "dayFour": "22/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "22/08/24",
+    "yield": 4468.21
+  },
+  {
+    "UserId": "880156e4-9b9c-4639-aef8-12f918771a5c",
+    "firstName": "Tara",
+    "lastName": "Torres",
+    "pincode": 85475,
+    "aadharNumber": 857941929418,
+    "phoneNo": 6653791812,
+    "villageName": "Mumbai",
+    "areaPloughed": 8.8,
+    "season": "Kharif",
+    "crop": "Barley",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 28.1
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "07/05/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "19/06/24",
+      "second": "17/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "15/06/24",
+      "dayOne": "07/07/24",
+      "dayTwo": "01/08/24",
+      "dayThree": "09/08/24",
+      "dayFour": "27/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "06/08/24",
+    "yield": 4997.86
+  },
+  {
+    "UserId": "aff991d1-583f-409d-98c1-bac9fdb7d2ba",
+    "firstName": "Jamie",
+    "lastName": "Simpson",
+    "pincode": 76615,
+    "aadharNumber": 314258739386,
+    "phoneNo": 7299915574,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.84,
+    "season": "Rabi",
+    "crop": "Pepper",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 11.49
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "02/06/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "17/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "17/07/24",
+      "dayTwo": "24/07/24",
+      "dayThree": "01/08/24",
+      "dayFour": "30/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "08/06/24",
+      "dayTwo": "23/06/24"
+    },
+    "dateHarvesting": "27/09/24",
+    "yield": 808.47
+  },
+  {
+    "UserId": "808c378c-63ec-4365-822e-0dd8c7066cfc",
+    "firstName": "Kenneth",
+    "lastName": "Jones",
+    "pincode": 81776,
+    "aadharNumber": 10801625591,
+    "phoneNo": 8589386804,
+    "villageName": "Chennai",
+    "areaPloughed": 3.25,
+    "season": "Kharif",
+    "crop": "Soybean",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 14.02
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "30/04/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "27/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "06/06/24",
+      "dayOne": "27/06/24",
+      "dayTwo": "26/07/24",
+      "dayThree": "16/08/24",
+      "dayFour": "23/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "08/06/24",
+      "dayTwo": "23/06/24"
+    },
+    "dateHarvesting": "04/08/24",
+    "yield": 1324.82
+  },
+  {
+    "UserId": "4890325a-d354-4977-a898-eae03765561e",
+    "firstName": "Henry",
+    "lastName": "Jimenez",
+    "pincode": 28717,
+    "aadharNumber": 827021019754,
+    "phoneNo": 7937360014,
+    "villageName": "Chennai",
+    "areaPloughed": 4.55,
+    "season": "Kharif",
+    "crop": "Onion",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 26.18
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "06/01/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "07/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "11/06/24",
+      "dayOne": "06/07/24",
+      "dayTwo": "08/07/24",
+      "dayThree": "14/07/24",
+      "dayFour": "27/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "15/06/24",
+      "dayTwo": "30/06/24"
+    },
+    "dateHarvesting": "28/04/24",
+    "yield": 1780.48
+  },
+  {
+    "UserId": "4997842f-0b46-4c4c-95e1-35552e7cc645",
+    "firstName": "Lance",
+    "lastName": "Leach",
+    "pincode": 33478,
+    "aadharNumber": 754422175768,
+    "phoneNo": 9536692894,
+    "villageName": "Bangalore",
+    "areaPloughed": 6.05,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 13.43
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "24/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "04/06/24",
+      "dayOne": "20/06/24",
+      "dayTwo": "17/07/24",
+      "dayThree": "16/08/24",
+      "dayFour": "10/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "15/06/24",
+    "yield": 1384.52
+  },
+  {
+    "UserId": "b034abf8-035d-40db-9d9c-d9aae50d5443",
+    "firstName": "Daniel",
+    "lastName": "Stokes",
+    "pincode": 26847,
+    "aadharNumber": 650376196556,
+    "phoneNo": 8278973772,
+    "villageName": "Bangalore",
+    "areaPloughed": 4.56,
+    "season": "Kharif",
+    "crop": "Maize",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 25.62
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "06/06/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "09/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "09/06/24",
+      "dayOne": "09/07/24",
+      "dayTwo": "29/07/24",
+      "dayThree": "18/08/24",
+      "dayFour": "10/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "04/06/24",
+      "dayTwo": "19/06/24"
+    },
+    "dateHarvesting": "02/10/24",
+    "yield": 3071.53
+  },
+  {
+    "UserId": "9ff11e47-246e-45a0-ad4f-04766d1be743",
+    "firstName": "Karen",
+    "lastName": "Martin",
+    "pincode": 23693,
+    "aadharNumber": 723229443053,
+    "phoneNo": 8585363855,
+    "villageName": "Chennai",
+    "areaPloughed": 1.61,
+    "season": "Rabi",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 24.9
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "07/01/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "04/06/24",
+      "second": "16/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "18/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "31/07/24",
+      "dayThree": "12/08/24",
+      "dayFour": "13/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "10/06/24",
+      "dayTwo": "25/06/24"
+    },
+    "dateHarvesting": "12/04/24",
+    "yield": 3334.61
+  },
+  {
+    "UserId": "78ea21a5-4a9c-4a58-be03-627c6623898a",
+    "firstName": "Bradley",
+    "lastName": "Kelly",
+    "pincode": 76180,
+    "aadharNumber": 50366716732,
+    "phoneNo": 9916447057,
+    "villageName": "Bangalore",
+    "areaPloughed": 8.58,
+    "season": "Kharif",
+    "crop": "Wheat",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 7.46
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "12/05/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "08/06/24",
+      "dayOne": "24/06/24",
+      "dayTwo": "26/06/24",
+      "dayThree": "08/07/24",
+      "dayFour": "06/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "04/06/24",
+      "dayTwo": "19/06/24"
+    },
+    "dateHarvesting": "09/09/24",
+    "yield": 4077.74
+  },
+  {
+    "UserId": "9d594845-e070-45ab-bb0e-8bc00f62efd9",
+    "firstName": "Karen",
+    "lastName": "Williamson",
+    "pincode": 69343,
+    "aadharNumber": 316399624525,
+    "phoneNo": 6156161468,
+    "villageName": "Hyderabad",
+    "areaPloughed": 8.02,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 6.68
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "10/05/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "19/06/24",
+      "dayOne": "18/07/24",
+      "dayTwo": "12/08/24",
+      "dayThree": "18/08/24",
+      "dayFour": "01/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "21/06/24",
+      "dayTwo": "06/07/24"
+    },
+    "dateHarvesting": "18/08/24",
+    "yield": 2977.51
+  },
+  {
+    "UserId": "0e9b3dce-79b0-44af-b109-c2190420e647",
+    "firstName": "Katherine",
+    "lastName": "King",
+    "pincode": 18821,
+    "aadharNumber": 750366224107,
+    "phoneNo": 6470083873,
+    "villageName": "Bangalore",
+    "areaPloughed": 7.77,
+    "season": "Rabi",
+    "crop": "Chili",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 9.47
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "26/05/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "12/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "18/06/24",
+      "dayOne": "14/07/24",
+      "dayTwo": "12/08/24",
+      "dayThree": "31/08/24",
+      "dayFour": "04/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "28/08/24",
+    "yield": 2211.31
+  },
+  {
+    "UserId": "2d444005-722b-482c-ab85-c33a4e21a438",
+    "firstName": "Heidi",
+    "lastName": "Robinson",
+    "pincode": 54483,
+    "aadharNumber": 251757685051,
+    "phoneNo": 8620283066,
+    "villageName": "Bangalore",
+    "areaPloughed": 4.15,
+    "season": "Rabi",
+    "crop": "Pepper",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 19.7
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "21/06/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "21/06/24",
+      "second": "26/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "15/06/24",
+      "dayOne": "15/07/24",
+      "dayTwo": "28/07/24",
+      "dayThree": "01/08/24",
+      "dayFour": "25/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "21/09/24",
+    "yield": 1861.7
+  },
+  {
+    "UserId": "1e638815-289f-4c7f-9439-d990684a0c6c",
+    "firstName": "Victoria",
+    "lastName": "Smith",
+    "pincode": 11156,
+    "aadharNumber": 64937598975,
+    "phoneNo": 6854487289,
+    "villageName": "Chennai",
+    "areaPloughed": 5.43,
+    "season": "Rabi",
+    "crop": "Wheat",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 12.84
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "03/02/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "20/06/24",
+      "dayTwo": "29/06/24",
+      "dayThree": "19/07/24",
+      "dayFour": "04/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "28/05/24",
+    "yield": 4318.05
+  },
+  {
+    "UserId": "4b0f2a85-57ec-4da1-b66b-08edad13852b",
+    "firstName": "Victor",
+    "lastName": "Davis",
+    "pincode": 57165,
+    "aadharNumber": 350488928569,
+    "phoneNo": 8207540583,
+    "villageName": "Bangalore",
+    "areaPloughed": 0.71,
+    "season": "Rabi",
+    "crop": "Grapes",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 9.05
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "01/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "05/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "07/06/24",
+      "dayOne": "17/06/24",
+      "dayTwo": "11/07/24",
+      "dayThree": "04/08/24",
+      "dayFour": "30/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "14/05/24",
+    "yield": 679.57
+  },
+  {
+    "UserId": "bab02b60-0ee0-49d2-9a67-16a689fd84f8",
+    "firstName": "Rebecca",
+    "lastName": "Sanchez",
+    "pincode": 48355,
+    "aadharNumber": 366345683645,
+    "phoneNo": 8017653456,
+    "villageName": "Mumbai",
+    "areaPloughed": 3.17,
+    "season": "Kharif",
+    "crop": "Pepper",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 23.99
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "07/01/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "14/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "06/07/24",
+      "dayTwo": "01/08/24",
+      "dayThree": "14/08/24",
+      "dayFour": "22/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "22/04/24",
+    "yield": 4173.81
+  },
+  {
+    "UserId": "2860bb49-5e5d-4b07-8f69-73e04198145f",
+    "firstName": "Emma",
+    "lastName": "Mayo",
+    "pincode": 67031,
+    "aadharNumber": 869226050041,
+    "phoneNo": 6312830903,
+    "villageName": "Hyderabad",
+    "areaPloughed": 3.2,
+    "season": "Rabi",
+    "crop": "Potato",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 19.91
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "19/03/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "09/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "06/06/24",
+      "dayTwo": "17/06/24",
+      "dayThree": "27/06/24",
+      "dayFour": "26/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "06/07/24",
+    "yield": 3017.68
+  },
+  {
+    "UserId": "dceb64ad-4afc-41f7-b63e-eda0d083c514",
+    "firstName": "Anna",
+    "lastName": "Mccullough",
+    "pincode": 58192,
+    "aadharNumber": 336965766202,
+    "phoneNo": 8102553822,
+    "villageName": "Mumbai",
+    "areaPloughed": 1.56,
+    "season": "Rabi",
+    "crop": "Carrot",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 5.33
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "09/01/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "09/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "09/07/24",
+      "dayThree": "11/07/24",
+      "dayFour": "26/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "17/06/24",
+      "dayTwo": "02/07/24"
+    },
+    "dateHarvesting": "17/04/24",
+    "yield": 3060.14
+  },
+  {
+    "UserId": "a91041d5-3363-42d7-bc87-942e852619f3",
+    "firstName": "Dawn",
+    "lastName": "Taylor",
+    "pincode": 89589,
+    "aadharNumber": 226089548470,
+    "phoneNo": 9369054991,
+    "villageName": "Mumbai",
+    "areaPloughed": 3.42,
+    "season": "Kharif",
+    "crop": "Onion",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 10.14
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "20/02/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "04/06/24",
+      "second": "28/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "11/06/24",
+      "dayTwo": "27/06/24",
+      "dayThree": "12/07/24",
+      "dayFour": "13/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "19/06/24",
+      "dayTwo": "04/07/24"
+    },
+    "dateHarvesting": "05/06/24",
+    "yield": 4877.37
+  },
+  {
+    "UserId": "8b304e96-35c2-4e04-be4a-a65aed7b351d",
+    "firstName": "Donald",
+    "lastName": "Shepherd",
+    "pincode": 64458,
+    "aadharNumber": 104010371632,
+    "phoneNo": 8743192274,
+    "villageName": "Bangalore",
+    "areaPloughed": 8.53,
+    "season": "Rabi",
+    "crop": "Pepper",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 18.21
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "14/03/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "14/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "04/06/24",
+      "dayTwo": "01/07/24",
+      "dayThree": "10/07/24",
+      "dayFour": "11/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "12/07/24",
+    "yield": 4911.16
+  },
+  {
+    "UserId": "0ba21e44-f3c3-40e9-a666-64a24cb5c2bf",
+    "firstName": "Sandra",
+    "lastName": "Brown",
+    "pincode": 18634,
+    "aadharNumber": 788578537876,
+    "phoneNo": 9910453911,
+    "villageName": "Chennai",
+    "areaPloughed": 8.15,
+    "season": "Kharif",
+    "crop": "Barley",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 9.53
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "14/05/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "18/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "17/06/24",
+      "dayOne": "03/07/24",
+      "dayTwo": "06/07/24",
+      "dayThree": "03/08/24",
+      "dayFour": "09/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "20/06/24",
+      "dayTwo": "05/07/24"
+    },
+    "dateHarvesting": "26/08/24",
+    "yield": 1186.55
+  },
+  {
+    "UserId": "59c415f5-5789-439b-84d6-8e8f9384c504",
+    "firstName": "Brenda",
+    "lastName": "Miller",
+    "pincode": 53585,
+    "aadharNumber": 304694409444,
+    "phoneNo": 6625902645,
+    "villageName": "Hyderabad",
+    "areaPloughed": 9.5,
+    "season": "Kharif",
+    "crop": "Maize",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 24.24
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "21/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "06/06/24",
+      "second": "05/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "12/06/24",
+      "dayOne": "17/06/24",
+      "dayTwo": "18/06/24",
+      "dayThree": "04/07/24",
+      "dayFour": "02/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "21/06/24",
+      "dayTwo": "06/07/24"
+    },
+    "dateHarvesting": "28/05/24",
+    "yield": 3043.86
+  },
+  {
+    "UserId": "498f768e-8e85-4e57-bef5-b1758eeea707",
+    "firstName": "Amanda",
+    "lastName": "Rios",
+    "pincode": 90071,
+    "aadharNumber": 858034262901,
+    "phoneNo": 7555364390,
+    "villageName": "Hyderabad",
+    "areaPloughed": 3.3,
+    "season": "Rabi",
+    "crop": "Maize",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 19.08
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "09/06/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "12/06/24",
+      "second": "20/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "08/06/24",
+      "dayOne": "19/06/24",
+      "dayTwo": "06/07/24",
+      "dayThree": "16/07/24",
+      "dayFour": "17/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "04/10/24",
+    "yield": 2290.5
+  },
+  {
+    "UserId": "3e92ae66-798d-4fd0-825f-f574efc0f1d9",
+    "firstName": "Jenna",
+    "lastName": "Chung",
+    "pincode": 54431,
+    "aadharNumber": 404408040667,
+    "phoneNo": 9035931278,
+    "villageName": "Hyderabad",
+    "areaPloughed": 9.93,
+    "season": "Kharif",
+    "crop": "Orange",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 21.64
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "14/02/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "21/06/24",
+      "second": "16/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "07/07/24",
+      "dayTwo": "16/07/24",
+      "dayThree": "26/07/24",
+      "dayFour": "24/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "05/06/24",
+    "yield": 3241.64
+  },
+  {
+    "UserId": "0189fce4-03eb-46a9-a0ae-aad24b2efd8f",
+    "firstName": "Richard",
+    "lastName": "Bell",
+    "pincode": 53311,
+    "aadharNumber": 19572273050,
+    "phoneNo": 6187649091,
+    "villageName": "Mumbai",
+    "areaPloughed": 8.84,
+    "season": "Kharif",
+    "crop": "Tomato",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 11.14
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "20/04/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "10/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "19/06/24",
+      "dayOne": "15/07/24",
+      "dayTwo": "24/07/24",
+      "dayThree": "04/08/24",
+      "dayFour": "01/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "21/06/24",
+      "dayTwo": "06/07/24"
+    },
+    "dateHarvesting": "14/08/24",
+    "yield": 4126.67
+  },
+  {
+    "UserId": "68b0a8bf-c21c-432f-969c-9924202f7df5",
+    "firstName": "Natalie",
+    "lastName": "Patterson",
+    "pincode": 64558,
+    "aadharNumber": 779663632275,
+    "phoneNo": 9203724321,
+    "villageName": "Bangalore",
+    "areaPloughed": 6.36,
+    "season": "Rabi",
+    "crop": "Banana",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 13.07
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "17/02/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "09/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "12/06/24",
+      "dayOne": "06/07/24",
+      "dayTwo": "14/07/24",
+      "dayThree": "10/08/24",
+      "dayFour": "04/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "15/06/24",
+    "yield": 2815.32
+  },
+  {
+    "UserId": "eebd7556-8d24-43cb-a7c0-cf07be77b1ee",
+    "firstName": "Diana",
+    "lastName": "Hill",
+    "pincode": 59808,
+    "aadharNumber": 750869472664,
+    "phoneNo": 8924975377,
+    "villageName": "Chennai",
+    "areaPloughed": 2.71,
+    "season": "Rabi",
+    "crop": "Coffee",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 24.55
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "14/01/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "19/06/24",
+      "second": "19/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "05/06/24",
+      "dayOne": "19/06/24",
+      "dayTwo": "08/07/24",
+      "dayThree": "31/07/24",
+      "dayFour": "04/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "21/04/24",
+    "yield": 2083.81
+  },
+  {
+    "UserId": "42ec3675-dfb1-4312-9eda-f3c4b4bedd44",
+    "firstName": "Caitlin",
+    "lastName": "Clayton",
+    "pincode": 91075,
+    "aadharNumber": 760925625969,
+    "phoneNo": 6291909391,
+    "villageName": "Mumbai",
+    "areaPloughed": 4.4,
+    "season": "Rabi",
+    "crop": "Sugarcane",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 10.53
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "17/01/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "02/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "06/06/24",
+      "dayTwo": "17/06/24",
+      "dayThree": "11/07/24",
+      "dayFour": "14/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "20/04/24",
+    "yield": 2962.13
+  },
+  {
+    "UserId": "35365def-f3b2-4c5d-bba7-bbdd94073707",
+    "firstName": "Edward",
+    "lastName": "Hodges",
+    "pincode": 55709,
+    "aadharNumber": 532191590146,
+    "phoneNo": 7420243568,
+    "villageName": "Chennai",
+    "areaPloughed": 4.57,
+    "season": "Kharif",
+    "crop": "Sugarcane",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 28.65
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "27/04/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "18/06/24",
+      "second": "13/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "06/06/24",
+      "dayOne": "12/06/24",
+      "dayTwo": "03/07/24",
+      "dayThree": "11/07/24",
+      "dayFour": "18/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "19/06/24",
+      "dayTwo": "04/07/24"
+    },
+    "dateHarvesting": "21/08/24",
+    "yield": 1707.78
+  },
+  {
+    "UserId": "17cc1638-8929-4032-aff4-5ef98412cb6d",
+    "firstName": "Laura",
+    "lastName": "Day",
+    "pincode": 83267,
+    "aadharNumber": 570112404360,
+    "phoneNo": 9239715124,
+    "villageName": "Chennai",
+    "areaPloughed": 2.73,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 15.4
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "04/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "10/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "09/06/24",
+      "dayOne": "03/07/24",
+      "dayTwo": "25/07/24",
+      "dayThree": "10/08/24",
+      "dayFour": "02/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "16/07/24",
+    "yield": 3788.29
+  },
+  {
+    "UserId": "cb34f27b-bda2-4d53-aa52-d1942167d8eb",
+    "firstName": "Danielle",
+    "lastName": "Rodriguez",
+    "pincode": 73819,
+    "aadharNumber": 766152527701,
+    "phoneNo": 8238595437,
+    "villageName": "Chennai",
+    "areaPloughed": 5.09,
+    "season": "Rabi",
+    "crop": "Orange",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 18.07
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "06/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "07/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "06/06/24",
+      "dayOne": "16/06/24",
+      "dayTwo": "13/07/24",
+      "dayThree": "11/08/24",
+      "dayFour": "12/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "07/05/24",
+    "yield": 4989.65
+  },
+  {
+    "UserId": "d820d73c-96cd-4393-86dd-fce2b0e2b0f5",
+    "firstName": "Lisa",
+    "lastName": "York",
+    "pincode": 26736,
+    "aadharNumber": 204995888242,
+    "phoneNo": 7607120504,
+    "villageName": "Mumbai",
+    "areaPloughed": 8.0,
+    "season": "Rabi",
+    "crop": "Cucumber",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 15.49
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "09/01/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "18/06/24",
+      "second": "22/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "07/06/24",
+      "dayOne": "24/06/24",
+      "dayTwo": "30/06/24",
+      "dayThree": "23/07/24",
+      "dayFour": "14/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "16/06/24",
+      "dayTwo": "01/07/24"
+    },
+    "dateHarvesting": "06/05/24",
+    "yield": 4212.71
+  },
+  {
+    "UserId": "503cc47f-e96b-4301-9bd5-a6b991a0654e",
+    "firstName": "Steven",
+    "lastName": "Larson",
+    "pincode": 91917,
+    "aadharNumber": 515497464460,
+    "phoneNo": 6514918078,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.81,
+    "season": "Kharif",
+    "crop": "Pepper",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 9.12
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "27/02/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "02/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "04/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "01/08/24",
+      "dayThree": "17/08/24",
+      "dayFour": "11/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "20/06/24",
+      "dayTwo": "05/07/24"
+    },
+    "dateHarvesting": "01/06/24",
+    "yield": 2055.53
+  },
+  {
+    "UserId": "e88d5965-0cc8-4a70-84d7-e5666eee9025",
+    "firstName": "Charles",
+    "lastName": "Hines",
+    "pincode": 22207,
+    "aadharNumber": 129898500273,
+    "phoneNo": 8764983643,
+    "villageName": "Mumbai",
+    "areaPloughed": 2.03,
+    "season": "Kharif",
+    "crop": "Tomato",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 5.25
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "04/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "14/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "09/07/24",
+      "dayTwo": "23/07/24",
+      "dayThree": "11/08/24",
+      "dayFour": "30/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "19/06/24",
+      "dayTwo": "04/07/24"
+    },
+    "dateHarvesting": "27/05/24",
+    "yield": 4780.95
+  },
+  {
+    "UserId": "f13cf6c2-778e-442e-ae45-d9abb69cf4d2",
+    "firstName": "Cody",
+    "lastName": "Myers",
+    "pincode": 63334,
+    "aadharNumber": 100017791491,
+    "phoneNo": 6909459294,
+    "villageName": "Hyderabad",
+    "areaPloughed": 3.98,
+    "season": "Rabi",
+    "crop": "Cucumber",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 22.31
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "29/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "18/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "19/06/24",
+      "dayTwo": "23/06/24",
+      "dayThree": "26/06/24",
+      "dayFour": "27/06/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "12/06/24",
+    "yield": 2653.51
+  },
+  {
+    "UserId": "7cbb623e-1276-4ae7-96ee-5aab4a2f1b5a",
+    "firstName": "Tracey",
+    "lastName": "Burnett",
+    "pincode": 58630,
+    "aadharNumber": 743433152021,
+    "phoneNo": 8252193442,
+    "villageName": "Mumbai",
+    "areaPloughed": 3.01,
+    "season": "Rabi",
+    "crop": "Cabbage",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 14.09
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "06/04/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "26/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "18/07/24",
+      "dayTwo": "25/07/24",
+      "dayThree": "06/08/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "16/06/24",
+      "dayTwo": "01/07/24"
+    },
+    "dateHarvesting": "01/08/24",
+    "yield": 890.91
+  },
+  {
+    "UserId": "c168409d-d667-41ca-8f7c-5adcd42bea44",
+    "firstName": "Julie",
+    "lastName": "Miller",
+    "pincode": 59390,
+    "aadharNumber": 381377889043,
+    "phoneNo": 7558523923,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.91,
+    "season": "Kharif",
+    "crop": "Apple",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 22.71
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "07/02/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "06/06/24",
+      "second": "11/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "18/07/24",
+      "dayTwo": "27/07/24",
+      "dayThree": "11/08/24",
+      "dayFour": "14/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "19/06/24",
+      "dayTwo": "04/07/24"
+    },
+    "dateHarvesting": "02/06/24",
+    "yield": 1072.44
+  },
+  {
+    "UserId": "acb689e6-67e7-42b0-9ce3-a75bba7e70c3",
+    "firstName": "James",
+    "lastName": "Hanna",
+    "pincode": 33805,
+    "aadharNumber": 688061127530,
+    "phoneNo": 8515155028,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.43,
+    "season": "Rabi",
+    "crop": "Barley",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 5.71
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "11/03/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "13/06/24",
+      "second": "18/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "08/07/24",
+      "dayTwo": "29/07/24",
+      "dayThree": "19/08/24",
+      "dayFour": "07/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "06/06/24",
+      "dayTwo": "21/06/24"
+    },
+    "dateHarvesting": "18/06/24",
+    "yield": 3499.63
+  },
+  {
+    "UserId": "0e6e2fbd-966e-4ffe-bb6f-2bbe7f6e6c4c",
+    "firstName": "Yolanda",
+    "lastName": "Jacobs",
+    "pincode": 48477,
+    "aadharNumber": 537978102814,
+    "phoneNo": 9393619632,
+    "villageName": "Hyderabad",
+    "areaPloughed": 0.62,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 23.58
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "03/04/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "11/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "18/06/24",
+      "dayOne": "15/07/24",
+      "dayTwo": "10/08/24",
+      "dayThree": "18/08/24",
+      "dayFour": "31/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "18/06/24",
+      "dayTwo": "03/07/24"
+    },
+    "dateHarvesting": "20/07/24",
+    "yield": 4136.6
+  },
+  {
+    "UserId": "374fb435-0dcb-4457-be44-5cfa1c2ede93",
+    "firstName": "Jeffery",
+    "lastName": "Murray",
+    "pincode": 57192,
+    "aadharNumber": 130456103519,
+    "phoneNo": 7221111602,
+    "villageName": "Chennai",
+    "areaPloughed": 9.77,
+    "season": "Rabi",
+    "crop": "Carrot",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 27.03
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "21/05/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "11/06/24",
+      "second": "21/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "16/06/24",
+      "dayOne": "13/07/24",
+      "dayTwo": "17/07/24",
+      "dayThree": "26/07/24",
+      "dayFour": "18/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "26/08/24",
+    "yield": 4148.31
+  },
+  {
+    "UserId": "d8e5d29e-5e82-4dde-8cd2-5e2bf7bb564d",
+    "firstName": "Louis",
+    "lastName": "Miller",
+    "pincode": 55114,
+    "aadharNumber": 196029235733,
+    "phoneNo": 9178447301,
+    "villageName": "Bangalore",
+    "areaPloughed": 6.44,
+    "season": "Kharif",
+    "crop": "Barley",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 24.79
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "22/01/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "11/06/24",
+      "second": "10/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "08/06/24",
+      "dayOne": "30/06/24",
+      "dayTwo": "25/07/24",
+      "dayThree": "02/08/24",
+      "dayFour": "23/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "17/06/24",
+      "dayTwo": "02/07/24"
+    },
+    "dateHarvesting": "03/05/24",
+    "yield": 3164.77
+  },
+  {
+    "UserId": "d9c8635a-70a7-4b5c-9120-4de0c205506c",
+    "firstName": "Michael",
+    "lastName": "Larsen",
+    "pincode": 36648,
+    "aadharNumber": 349050621290,
+    "phoneNo": 8024198957,
+    "villageName": "Chennai",
+    "areaPloughed": 8.86,
+    "season": "Kharif",
+    "crop": "Banana",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 8.07
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "03/01/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "11/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "26/06/24",
+      "dayTwo": "26/07/24",
+      "dayThree": "08/08/24",
+      "dayFour": "24/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "15/04/24",
+    "yield": 1982.32
+  },
+  {
+    "UserId": "827a65c7-28e2-4b2f-ba11-68c4f1316601",
+    "firstName": "Zachary",
+    "lastName": "Robertson",
+    "pincode": 81719,
+    "aadharNumber": 309052443439,
+    "phoneNo": 6065372180,
+    "villageName": "Hyderabad",
+    "areaPloughed": 4.81,
+    "season": "Rabi",
+    "crop": "Tea",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 26.23
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "29/02/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "09/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "22/06/24",
+      "dayTwo": "05/07/24",
+      "dayThree": "11/07/24",
+      "dayFour": "27/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "04/06/24",
+      "dayTwo": "19/06/24"
+    },
+    "dateHarvesting": "26/06/24",
+    "yield": 1060.8
+  },
+  {
+    "UserId": "85484c1e-f319-4e7d-930f-e20e205223df",
+    "firstName": "Sharon",
+    "lastName": "Paul",
+    "pincode": 75027,
+    "aadharNumber": 736759848745,
+    "phoneNo": 7618296057,
+    "villageName": "Bangalore",
+    "areaPloughed": 7.66,
+    "season": "Rabi",
+    "crop": "Apple",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 8.39
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "12/06/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "21/06/24",
+      "second": "26/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "04/06/24",
+      "dayOne": "06/06/24",
+      "dayTwo": "30/06/24",
+      "dayThree": "08/07/24",
+      "dayFour": "25/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "07/06/24",
+      "dayTwo": "22/06/24"
+    },
+    "dateHarvesting": "26/09/24",
+    "yield": 3026.74
+  },
+  {
+    "UserId": "ecc25636-139d-4d98-ae40-b4e4ee4dee88",
+    "firstName": "Patricia",
+    "lastName": "Friedman",
+    "pincode": 34135,
+    "aadharNumber": 692503189310,
+    "phoneNo": 6185615242,
+    "villageName": "Hyderabad",
+    "areaPloughed": 3.35,
+    "season": "Rabi",
+    "crop": "Wheat",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 26.69
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "19/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "17/06/24",
+      "second": "17/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "09/06/24",
+      "dayOne": "30/06/24",
+      "dayTwo": "13/07/24",
+      "dayThree": "15/07/24",
+      "dayFour": "01/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "01/06/24",
+      "dayTwo": "16/06/24"
+    },
+    "dateHarvesting": "27/05/24",
+    "yield": 2901.79
+  },
+  {
+    "UserId": "9bc5c8f4-0e6c-41ef-9ab7-b7aea2cf7134",
+    "firstName": "Kyle",
+    "lastName": "Davidson",
+    "pincode": 98723,
+    "aadharNumber": 789369627868,
+    "phoneNo": 6566950414,
+    "villageName": "Hyderabad",
+    "areaPloughed": 2.71,
+    "season": "Rabi",
+    "crop": "Rice",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 23.81
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "08/04/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "09/06/24",
+      "dayOne": "18/06/24",
+      "dayTwo": "30/06/24",
+      "dayThree": "16/07/24",
+      "dayFour": "25/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "02/08/24",
+    "yield": 2955.66
+  },
+  {
+    "UserId": "9c288405-d601-4c0f-ba9f-276b7c51e10e",
+    "firstName": "Wendy",
+    "lastName": "Wright",
+    "pincode": 96904,
+    "aadharNumber": 145434606227,
+    "phoneNo": 8075596919,
+    "villageName": "Mumbai",
+    "areaPloughed": 1.9,
+    "season": "Kharif",
+    "crop": "Coffee",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 19.26
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "11/01/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "11/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "17/06/24",
+      "dayOne": "25/06/24",
+      "dayTwo": "16/07/24",
+      "dayThree": "29/07/24",
+      "dayFour": "05/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "08/06/24",
+      "dayTwo": "23/06/24"
+    },
+    "dateHarvesting": "07/05/24",
+    "yield": 2089.47
+  },
+  {
+    "UserId": "95961e07-cf68-4054-a7c0-ad57759fd336",
+    "firstName": "Harold",
+    "lastName": "Ward",
+    "pincode": 49341,
+    "aadharNumber": 509891675815,
+    "phoneNo": 8651689200,
+    "villageName": "Mumbai",
+    "areaPloughed": 4.87,
+    "season": "Rabi",
+    "crop": "Grapes",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 28.97
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "22/01/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "05/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "15/06/24",
+      "dayTwo": "13/07/24",
+      "dayThree": "11/08/24",
+      "dayFour": "19/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "10/05/24",
+    "yield": 4693.32
+  },
+  {
+    "UserId": "854ae5d6-1ad6-43f2-995b-05e1147cfa2c",
+    "firstName": "Sarah",
+    "lastName": "Wilson",
+    "pincode": 13722,
+    "aadharNumber": 617356287721,
+    "phoneNo": 7121042728,
+    "villageName": "Chennai",
+    "areaPloughed": 5.03,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 26.95
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "22/01/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "10/06/24",
+      "second": "28/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "14/06/24",
+      "dayOne": "28/06/24",
+      "dayTwo": "16/07/24",
+      "dayThree": "13/08/24",
+      "dayFour": "20/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "07/05/24",
+    "yield": 4760.51
+  },
+  {
+    "UserId": "c35c2c6f-6ad5-4b67-a520-bced7c9f169a",
+    "firstName": "Erica",
+    "lastName": "Lowery",
+    "pincode": 34322,
+    "aadharNumber": 792161140560,
+    "phoneNo": 9470394213,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.68,
+    "season": "Kharif",
+    "crop": "Cotton",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 23.58
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "16/06/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "10/06/24",
+      "second": "11/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "09/06/24",
+      "dayOne": "15/06/24",
+      "dayTwo": "15/07/24",
+      "dayThree": "09/08/24",
+      "dayFour": "06/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "01/06/24",
+      "dayTwo": "16/06/24"
+    },
+    "dateHarvesting": "13/10/24",
+    "yield": 4984.31
+  },
+  {
+    "UserId": "d3f79ee3-93ed-40e0-b95a-350f123ca847",
+    "firstName": "Robert",
+    "lastName": "Hines",
+    "pincode": 49735,
+    "aadharNumber": 387924381575,
+    "phoneNo": 6394573413,
+    "villageName": "Bangalore",
+    "areaPloughed": 9.44,
+    "season": "Kharif",
+    "crop": "Sugarcane",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 28.36
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "11/03/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "09/06/24",
+      "second": "04/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "12/06/24",
+      "dayOne": "06/07/24",
+      "dayTwo": "04/08/24",
+      "dayThree": "07/08/24",
+      "dayFour": "14/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "12/06/24",
+    "yield": 4036.69
+  },
+  {
+    "UserId": "f08daad4-a8de-4c9b-8ef3-2db18382d197",
+    "firstName": "Angela",
+    "lastName": "Smith",
+    "pincode": 64030,
+    "aadharNumber": 253112105727,
+    "phoneNo": 7400202719,
+    "villageName": "Hyderabad",
+    "areaPloughed": 6.23,
+    "season": "Kharif",
+    "crop": "Tea",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 9.67
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "07/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "08/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "30/06/24",
+      "dayThree": "27/07/24",
+      "dayFour": "17/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "16/06/24",
+      "dayTwo": "01/07/24"
+    },
+    "dateHarvesting": "18/05/24",
+    "yield": 3956.32
+  },
+  {
+    "UserId": "3a887dcb-a573-429f-82b3-25742f06933d",
+    "firstName": "Derrick",
+    "lastName": "English",
+    "pincode": 43337,
+    "aadharNumber": 973909176306,
+    "phoneNo": 8977282861,
+    "villageName": "Hyderabad",
+    "areaPloughed": 2.72,
+    "season": "Kharif",
+    "crop": "Cabbage",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 8.53
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "19/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "13/06/24",
+      "second": "30/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "09/06/24",
+      "dayTwo": "02/07/24",
+      "dayThree": "25/07/24",
+      "dayFour": "05/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "16/06/24",
+      "dayTwo": "01/07/24"
+    },
+    "dateHarvesting": "18/06/24",
+    "yield": 4719.99
+  },
+  {
+    "UserId": "ddcfdf60-5f2f-4df5-8f0c-8df8f9a1572d",
+    "firstName": "Mary",
+    "lastName": "Palmer",
+    "pincode": 95713,
+    "aadharNumber": 306276822744,
+    "phoneNo": 7396162180,
+    "villageName": "Chennai",
+    "areaPloughed": 3.39,
+    "season": "Kharif",
+    "crop": "Banana",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 11.96
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "25/01/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "09/06/24",
+      "second": "23/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "17/06/24",
+      "dayTwo": "20/06/24",
+      "dayThree": "02/07/24",
+      "dayFour": "19/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "08/06/24",
+      "dayTwo": "23/06/24"
+    },
+    "dateHarvesting": "06/05/24",
+    "yield": 1967.15
+  },
+  {
+    "UserId": "46940661-52a9-4300-94a8-fcbfe879eafa",
+    "firstName": "Stephanie",
+    "lastName": "Lucero",
+    "pincode": 93204,
+    "aadharNumber": 127297387557,
+    "phoneNo": 7025128630,
+    "villageName": "Bangalore",
+    "areaPloughed": 7.74,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 19.65
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "28/02/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "13/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "19/06/24",
+      "dayOne": "27/06/24",
+      "dayTwo": "17/07/24",
+      "dayThree": "26/07/24",
+      "dayFour": "05/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "24/06/24",
+    "yield": 2199.46
+  },
+  {
+    "UserId": "86c21f01-3cf9-4daa-9980-440274653fe4",
+    "firstName": "Kevin",
+    "lastName": "Bryant",
+    "pincode": 28085,
+    "aadharNumber": 429507959204,
+    "phoneNo": 6441919190,
+    "villageName": "Chennai",
+    "areaPloughed": 4.94,
+    "season": "Rabi",
+    "crop": "Sugarcane",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 14.71
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "27/03/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "07/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "28/06/24",
+      "dayTwo": "23/07/24",
+      "dayThree": "18/08/24",
+      "dayFour": "10/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "21/06/24",
+      "dayTwo": "06/07/24"
+    },
+    "dateHarvesting": "01/07/24",
+    "yield": 2040.98
+  },
+  {
+    "UserId": "735697f7-51b7-4976-9ca9-e566318a6c5d",
+    "firstName": "David",
+    "lastName": "Kane",
+    "pincode": 88144,
+    "aadharNumber": 210004681362,
+    "phoneNo": 6916055698,
+    "villageName": "Mumbai",
+    "areaPloughed": 3.05,
+    "season": "Rabi",
+    "crop": "Banana",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 22.86
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "05/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "01/06/24",
+      "second": "17/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "18/06/24",
+      "dayTwo": "20/06/24",
+      "dayThree": "06/07/24",
+      "dayFour": "17/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "05/06/24",
+      "dayTwo": "20/06/24"
+    },
+    "dateHarvesting": "07/05/24",
+    "yield": 2815.62
+  },
+  {
+    "UserId": "84f5e581-7262-49c7-a0d4-c602cebd2a55",
+    "firstName": "James",
+    "lastName": "King",
+    "pincode": 71770,
+    "aadharNumber": 979948107612,
+    "phoneNo": 7041435519,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.61,
+    "season": "Rabi",
+    "crop": "Cucumber",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 14.51
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "04/05/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "11/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "16/06/24",
+      "dayTwo": "19/06/24",
+      "dayThree": "29/06/24",
+      "dayFour": "27/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "19/08/24",
+    "yield": 1208.17
+  },
+  {
+    "UserId": "22e497fe-4ee7-4f4b-9d0e-cd8a7bf4d914",
+    "firstName": "Amber",
+    "lastName": "Williams",
+    "pincode": 66736,
+    "aadharNumber": 363896412546,
+    "phoneNo": 7058766809,
+    "villageName": "Bangalore",
+    "areaPloughed": 9.1,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 18.28
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "05/05/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "19/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "04/06/24",
+      "dayTwo": "29/06/24",
+      "dayThree": "24/07/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "12/06/24",
+      "dayTwo": "27/06/24"
+    },
+    "dateHarvesting": "25/08/24",
+    "yield": 2830.32
+  },
+  {
+    "UserId": "73047ac6-3d2c-44b8-bb90-def909033763",
+    "firstName": "Steven",
+    "lastName": "Mitchell",
+    "pincode": 20493,
+    "aadharNumber": 210089816049,
+    "phoneNo": 6675011609,
+    "villageName": "Chennai",
+    "areaPloughed": 4.99,
+    "season": "Rabi",
+    "crop": "Cucumber",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 5.54
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "02/02/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "03/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "15/06/24",
+      "dayOne": "16/06/24",
+      "dayTwo": "02/07/24",
+      "dayThree": "03/07/24",
+      "dayFour": "29/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "17/06/24",
+      "dayTwo": "02/07/24"
+    },
+    "dateHarvesting": "25/05/24",
+    "yield": 3291.54
+  },
+  {
+    "UserId": "3b2e898e-c2bf-4470-8a6a-89a21bcd971d",
+    "firstName": "Ryan",
+    "lastName": "Shaw",
+    "pincode": 90607,
+    "aadharNumber": 394614248740,
+    "phoneNo": 8776772991,
+    "villageName": "Mumbai",
+    "areaPloughed": 4.46,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 5.69
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "21/06/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "12/06/24",
+      "second": "29/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "08/07/24",
+      "dayThree": "20/07/24",
+      "dayFour": "12/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "07/06/24",
+      "dayTwo": "22/06/24"
+    },
+    "dateHarvesting": "24/09/24",
+    "yield": 1116.43
+  },
+  {
+    "UserId": "b39fd55c-5079-4bfb-ae4b-0aca257717fd",
+    "firstName": "Melissa",
+    "lastName": "Blackburn",
+    "pincode": 16836,
+    "aadharNumber": 769857159283,
+    "phoneNo": 8457449353,
+    "villageName": "Mumbai",
+    "areaPloughed": 1.05,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 23.6
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "10/06/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "07/06/24",
+      "second": "28/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "19/06/24",
+      "dayTwo": "21/06/24",
+      "dayThree": "05/07/24",
+      "dayFour": "10/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "15/06/24",
+      "dayTwo": "30/06/24"
+    },
+    "dateHarvesting": "22/09/24",
+    "yield": 3245.18
+  },
+  {
+    "UserId": "1917f1fc-3946-42d2-87fb-c6718a4f53bf",
+    "firstName": "Amy",
+    "lastName": "Little",
+    "pincode": 66307,
+    "aadharNumber": 349639639613,
+    "phoneNo": 7176911376,
+    "villageName": "Chennai",
+    "areaPloughed": 5.44,
+    "season": "Kharif",
+    "crop": "Barley",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 21.88
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "05/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "14/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "21/07/24",
+      "dayThree": "03/08/24",
+      "dayFour": "10/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "27/05/24",
+    "yield": 550.19
+  },
+  {
+    "UserId": "e7917794-98e8-4526-b11b-bb858611cd75",
+    "firstName": "Lori",
+    "lastName": "Anderson",
+    "pincode": 64415,
+    "aadharNumber": 739419332511,
+    "phoneNo": 9784063217,
+    "villageName": "Bangalore",
+    "areaPloughed": 5.81,
+    "season": "Kharif",
+    "crop": "Rice",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 20.44
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "30/04/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "05/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "05/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "05/07/24",
+      "dayThree": "16/07/24",
+      "dayFour": "02/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "06/06/24",
+      "dayTwo": "21/06/24"
+    },
+    "dateHarvesting": "28/08/24",
+    "yield": 2177.04
+  },
+  {
+    "UserId": "a565739a-4776-49a2-9b8d-1b72c24445c9",
+    "firstName": "Bryan",
+    "lastName": "Bishop",
+    "pincode": 50237,
+    "aadharNumber": 795289192360,
+    "phoneNo": 7281618685,
+    "villageName": "Mumbai",
+    "areaPloughed": 7.17,
+    "season": "Kharif",
+    "crop": "Banana",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 29.72
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "25/05/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "02/06/24",
+      "second": "17/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "06/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "28/07/24",
+      "dayThree": "20/08/24",
+      "dayFour": "05/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "10/06/24",
+      "dayTwo": "25/06/24"
+    },
+    "dateHarvesting": "23/08/24",
+    "yield": 4605.12
+  },
+  {
+    "UserId": "d95e9c0e-be8d-44f5-812a-f021b8ee8877",
+    "firstName": "Michelle",
+    "lastName": "Rice",
+    "pincode": 58998,
+    "aadharNumber": 743499957956,
+    "phoneNo": 7408354903,
+    "villageName": "Bangalore",
+    "areaPloughed": 3.01,
+    "season": "Kharif",
+    "crop": "Wheat",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 20.67
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "11/01/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "04/06/24",
+      "second": "05/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "19/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "04/07/24",
+      "dayThree": "08/07/24",
+      "dayFour": "17/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "10/05/24",
+    "yield": 4136.12
+  },
+  {
+    "UserId": "2352fe47-7972-46ff-b5e8-300636c71444",
+    "firstName": "Karina",
+    "lastName": "Hansen",
+    "pincode": 44306,
+    "aadharNumber": 124422200095,
+    "phoneNo": 8817398394,
+    "villageName": "Chennai",
+    "areaPloughed": 9.49,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 24.37
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "10/04/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "05/06/24",
+      "second": "06/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "11/06/24",
+      "dayOne": "22/06/24",
+      "dayTwo": "25/06/24",
+      "dayThree": "10/07/24",
+      "dayFour": "22/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "10/06/24",
+      "dayTwo": "25/06/24"
+    },
+    "dateHarvesting": "17/07/24",
+    "yield": 2583.45
+  },
+  {
+    "UserId": "8dcb3f90-0a43-463b-a1d4-b8d260052caf",
+    "firstName": "Austin",
+    "lastName": "Ramos",
+    "pincode": 70750,
+    "aadharNumber": 557854780866,
+    "phoneNo": 9545179110,
+    "villageName": "Chennai",
+    "areaPloughed": 6.48,
+    "season": "Rabi",
+    "crop": "Barley",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 7.17
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "19/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "25/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "28/06/24",
+      "dayTwo": "14/07/24",
+      "dayThree": "24/07/24",
+      "dayFour": "28/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "03/06/24",
+      "dayTwo": "18/06/24"
+    },
+    "dateHarvesting": "29/07/24",
+    "yield": 1659.97
+  },
+  {
+    "UserId": "a91d33e7-bb3b-44aa-9dbd-7548a5bf829a",
+    "firstName": "Rachel",
+    "lastName": "Trujillo",
+    "pincode": 15949,
+    "aadharNumber": 391739678934,
+    "phoneNo": 7883232872,
+    "villageName": "Hyderabad",
+    "areaPloughed": 6.43,
+    "season": "Kharif",
+    "crop": "Soybean",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 27.03
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "18/03/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "19/06/24",
+      "second": "22/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "07/06/24",
+      "dayOne": "23/06/24",
+      "dayTwo": "18/07/24",
+      "dayThree": "13/08/24",
+      "dayFour": "09/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "23/06/24",
+    "yield": 4742.44
+  },
+  {
+    "UserId": "c4bfb6c8-895e-414b-9936-f4aa9c968313",
+    "firstName": "Nicholas",
+    "lastName": "Chase",
+    "pincode": 38888,
+    "aadharNumber": 747045572113,
+    "phoneNo": 7411401071,
+    "villageName": "Hyderabad",
+    "areaPloughed": 9.36,
+    "season": "Kharif",
+    "crop": "Pepper",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 9.56
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "21/04/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "04/06/24",
+      "second": "28/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "22/06/24",
+      "dayOne": "04/07/24",
+      "dayTwo": "19/07/24",
+      "dayThree": "14/08/24",
+      "dayFour": "06/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "28/07/24",
+    "yield": 4113.72
+  },
+  {
+    "UserId": "8bcf6a7b-60b2-4e27-bae8-68f08dbf5685",
+    "firstName": "Hailey",
+    "lastName": "Flores",
+    "pincode": 26560,
+    "aadharNumber": 204273948111,
+    "phoneNo": 7936712158,
+    "villageName": "Bangalore",
+    "areaPloughed": 1.16,
+    "season": "Kharif",
+    "crop": "Banana",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 6.68
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "13/05/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "21/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "13/06/24",
+      "dayOne": "10/07/24",
+      "dayTwo": "09/08/24",
+      "dayThree": "12/08/24",
+      "dayFour": "31/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "15/08/24",
+    "yield": 1693.92
+  },
+  {
+    "UserId": "6defc6f1-4f51-4227-b1df-426876d9d291",
+    "firstName": "Christopher",
+    "lastName": "Golden",
+    "pincode": 77956,
+    "aadharNumber": 853364399091,
+    "phoneNo": 9288421547,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.09,
+    "season": "Kharif",
+    "crop": "Coffee",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 28.21
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "03/05/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "10/06/24",
+      "second": "07/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "02/06/24",
+      "dayOne": "01/07/24",
+      "dayTwo": "13/07/24",
+      "dayThree": "18/07/24",
+      "dayFour": "09/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "09/06/24",
+      "dayTwo": "24/06/24"
+    },
+    "dateHarvesting": "31/08/24",
+    "yield": 1447.59
+  },
+  {
+    "UserId": "aefb52ab-217a-4613-b4a7-2c5a5bc6460a",
+    "firstName": "Melissa",
+    "lastName": "Davis",
+    "pincode": 89501,
+    "aadharNumber": 293632869251,
+    "phoneNo": 9991082139,
+    "villageName": "Mumbai",
+    "areaPloughed": 8.34,
+    "season": "Kharif",
+    "crop": "Cabbage",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 26.18
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "09/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "08/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24",
+      "dayThree": "26/07/24",
+      "dayFour": "21/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "31/07/24",
+    "yield": 3404.34
+  },
+  {
+    "UserId": "6679cdec-12e3-4771-896d-b99bcf775610",
+    "firstName": "Jessica",
+    "lastName": "Horne",
+    "pincode": 96719,
+    "aadharNumber": 861521417275,
+    "phoneNo": 6170619483,
+    "villageName": "Chennai",
+    "areaPloughed": 1.48,
+    "season": "Rabi",
+    "crop": "Sugarcane",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 6.16
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "18/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "01/06/24",
+      "second": "17/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "16/06/24",
+      "dayOne": "05/07/24",
+      "dayTwo": "07/07/24",
+      "dayThree": "24/07/24",
+      "dayFour": "02/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "04/06/24",
+      "dayTwo": "19/06/24"
+    },
+    "dateHarvesting": "14/06/24",
+    "yield": 773.53
+  },
+  {
+    "UserId": "d7b137a5-6eac-4d0c-a94d-efec88023f0b",
+    "firstName": "Victoria",
+    "lastName": "Huff",
+    "pincode": 80775,
+    "aadharNumber": 412711387597,
+    "phoneNo": 9037640740,
+    "villageName": "Bangalore",
+    "areaPloughed": 4.06,
+    "season": "Rabi",
+    "crop": "Rice",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 7.48
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "04/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "03/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "16/06/24",
+      "dayOne": "11/07/24",
+      "dayTwo": "14/07/24",
+      "dayThree": "05/08/24",
+      "dayFour": "13/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "27/05/24",
+    "yield": 3611.76
+  },
+  {
+    "UserId": "c8759cd1-90df-4078-aaa3-2003261dc7f8",
+    "firstName": "James",
+    "lastName": "Scott",
+    "pincode": 19094,
+    "aadharNumber": 450231243959,
+    "phoneNo": 9460651672,
+    "villageName": "Chennai",
+    "areaPloughed": 7.55,
+    "season": "Rabi",
+    "crop": "Rice",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 9.53
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "23/03/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "11/06/24",
+      "second": "08/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "03/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "01/07/24",
+      "dayThree": "14/07/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "01/06/24",
+      "dayTwo": "16/06/24"
+    },
+    "dateHarvesting": "30/06/24",
+    "yield": 4750.81
+  },
+  {
+    "UserId": "798dbd72-339f-4b57-9a23-d362e4a8d020",
+    "firstName": "Kenneth",
+    "lastName": "Moreno",
+    "pincode": 38811,
+    "aadharNumber": 127225667005,
+    "phoneNo": 7972096579,
+    "villageName": "Mumbai",
+    "areaPloughed": 8.42,
+    "season": "Rabi",
+    "crop": "Apple",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 14.54
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "04/06/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "22/06/24",
+      "second": "10/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "27/06/24",
+      "dayTwo": "02/07/24",
+      "dayThree": "12/07/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "11/06/24",
+      "dayTwo": "26/06/24"
+    },
+    "dateHarvesting": "11/09/24",
+    "yield": 2605.45
+  },
+  {
+    "UserId": "04efdfcd-595c-4c1e-a6a4-2a8794024b7d",
+    "firstName": "Courtney",
+    "lastName": "Gonzalez",
+    "pincode": 71248,
+    "aadharNumber": 893886464244,
+    "phoneNo": 7782320746,
+    "villageName": "Chennai",
+    "areaPloughed": 2.17,
+    "season": "Kharif",
+    "crop": "Barley",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 26.3
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "25/03/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "18/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "16/06/24",
+      "dayOne": "23/06/24",
+      "dayTwo": "05/07/24",
+      "dayThree": "27/07/24",
+      "dayFour": "09/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "08/07/24",
+    "yield": 1917.14
+  },
+  {
+    "UserId": "6c5bb8d9-8ece-4213-8245-74d817c4a5f9",
+    "firstName": "Becky",
+    "lastName": "Miller",
+    "pincode": 76656,
+    "aadharNumber": 47590213524,
+    "phoneNo": 8887607050,
+    "villageName": "Bangalore",
+    "areaPloughed": 1.65,
+    "season": "Kharif",
+    "crop": "Orange",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 13.0
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "01/01/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "01/06/24",
+      "second": "16/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "21/06/24",
+      "dayTwo": "25/06/24",
+      "dayThree": "13/07/24",
+      "dayFour": "18/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "18/06/24",
+      "dayTwo": "03/07/24"
+    },
+    "dateHarvesting": "06/04/24",
+    "yield": 2766.58
+  },
+  {
+    "UserId": "f3bde085-dcce-457c-b7bc-9a7d098f9940",
+    "firstName": "Mary",
+    "lastName": "Velasquez",
+    "pincode": 78064,
+    "aadharNumber": 914806961249,
+    "phoneNo": 8663946914,
+    "villageName": "Chennai",
+    "areaPloughed": 8.85,
+    "season": "Rabi",
+    "crop": "Cotton",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 23.09
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "22/05/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "19/06/24",
+      "second": "09/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "10/06/24",
+      "dayOne": "01/07/24",
+      "dayTwo": "27/07/24",
+      "dayThree": "24/08/24",
+      "dayFour": "20/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "09/06/24",
+      "dayTwo": "24/06/24"
+    },
+    "dateHarvesting": "24/08/24",
+    "yield": 4072.45
+  },
+  {
+    "UserId": "7f15234e-1b93-4e71-9e63-7172382daaf9",
+    "firstName": "Jose",
+    "lastName": "Oconnor",
+    "pincode": 53469,
+    "aadharNumber": 338771591017,
+    "phoneNo": 9661633135,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.4,
+    "season": "Kharif",
+    "crop": "Cucumber",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 10.28
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "24/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "03/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "02/07/24",
+      "dayTwo": "29/07/24",
+      "dayThree": "11/08/24",
+      "dayFour": "17/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "27/05/24",
+    "yield": 4095.47
+  },
+  {
+    "UserId": "c921f88c-9939-46ad-852e-016345955bb9",
+    "firstName": "John",
+    "lastName": "Holmes",
+    "pincode": 22988,
+    "aadharNumber": 973642713309,
+    "phoneNo": 6172735447,
+    "villageName": "Chennai",
+    "areaPloughed": 1.92,
+    "season": "Rabi",
+    "crop": "Lettuce",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 6.82
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "02/01/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "15/06/24",
+      "second": "18/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "10/06/24",
+      "dayTwo": "21/06/24",
+      "dayThree": "15/07/24",
+      "dayFour": "30/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "21/06/24",
+      "dayTwo": "06/07/24"
+    },
+    "dateHarvesting": "01/05/24",
+    "yield": 2963.61
+  },
+  {
+    "UserId": "87cc83cf-6e31-4226-bc2a-5f5509c41491",
+    "firstName": "Hannah",
+    "lastName": "Park",
+    "pincode": 85766,
+    "aadharNumber": 647371917348,
+    "phoneNo": 8601957900,
+    "villageName": "Bangalore",
+    "areaPloughed": 0.73,
+    "season": "Kharif",
+    "crop": "Cucumber",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 28.49
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "29/01/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "14/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "17/06/24",
+      "dayOne": "08/07/24",
+      "dayTwo": "26/07/24",
+      "dayThree": "30/07/24",
+      "dayFour": "08/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "17/06/24",
+      "dayTwo": "02/07/24"
+    },
+    "dateHarvesting": "12/05/24",
+    "yield": 3750.94
+  },
+  {
+    "UserId": "abde8c75-2432-47ec-85a7-8af85dc6dfe0",
+    "firstName": "Taylor",
+    "lastName": "Vincent",
+    "pincode": 89040,
+    "aadharNumber": 129120765620,
+    "phoneNo": 7208060852,
+    "villageName": "Mumbai",
+    "areaPloughed": 3.25,
+    "season": "Rabi",
+    "crop": "Rice",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 23.27
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "28/04/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "16/06/24",
+      "second": "30/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "01/06/24",
+      "dayOne": "15/06/24",
+      "dayTwo": "23/06/24",
+      "dayThree": "22/07/24",
+      "dayFour": "11/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "04/06/24",
+      "dayTwo": "19/06/24"
+    },
+    "dateHarvesting": "27/07/24",
+    "yield": 2582.86
+  },
+  {
+    "UserId": "091124c1-fe49-4160-9e7c-d439ddf4413c",
+    "firstName": "Cynthia",
+    "lastName": "Salas",
+    "pincode": 97136,
+    "aadharNumber": 475648534580,
+    "phoneNo": 6540935626,
+    "villageName": "Hyderabad",
+    "areaPloughed": 8.67,
+    "season": "Kharif",
+    "crop": "Pepper",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 26.99
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "15/02/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "05/06/24",
+      "second": "12/06/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "24/06/24",
+      "dayTwo": "09/07/24",
+      "dayThree": "25/07/24",
+      "dayFour": "17/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "03/06/24",
+    "yield": 1766.52
+  },
+  {
+    "UserId": "94eb8663-5cd0-4556-9ade-b0719c21b12f",
+    "firstName": "Kevin",
+    "lastName": "Allen",
+    "pincode": 53476,
+    "aadharNumber": 960103445290,
+    "phoneNo": 8768288629,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.78,
+    "season": "Kharif",
+    "crop": "Tea",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 7.52
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "06/05/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "03/06/24",
+      "second": "21/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "25/06/24",
+      "dayTwo": "09/07/24",
+      "dayThree": "31/07/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "02/06/24",
+      "dayTwo": "17/06/24"
+    },
+    "dateHarvesting": "21/08/24",
+    "yield": 2807.8
+  },
+  {
+    "UserId": "bc28ecb7-2650-45da-a863-88d015aa360f",
+    "firstName": "Amber",
+    "lastName": "Wells",
+    "pincode": 92094,
+    "aadharNumber": 909236693591,
+    "phoneNo": 6250241604,
+    "villageName": "Hyderabad",
+    "areaPloughed": 7.2,
+    "season": "Rabi",
+    "crop": "Cotton",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 24.14
+    },
+    "landPreparation": 3,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "04/02/24"
+    },
+    "irrigationMethod": "Borewell",
+    "WeedingSchedule": {
+      "first": "14/06/24",
+      "second": "05/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "16/06/24",
+      "dayOne": "10/07/24",
+      "dayTwo": "20/07/24",
+      "dayThree": "29/07/24",
+      "dayFour": "17/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "22/06/24",
+      "dayTwo": "07/07/24"
+    },
+    "dateHarvesting": "15/05/24",
+    "yield": 2626.19
+  },
+  {
+    "UserId": "ad7ec3ac-4e07-44ad-ae7a-2722d78a4d1f",
+    "firstName": "Ryan",
+    "lastName": "Yates",
+    "pincode": 49255,
+    "aadharNumber": 58442640339,
+    "phoneNo": 8578380738,
+    "villageName": "Mumbai",
+    "areaPloughed": 2.95,
+    "season": "Kharif",
+    "crop": "Grapes",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 25.12
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "26/03/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "21/06/24",
+      "second": "19/07/24"
+    },
+    "fertilizers": "bioinputs",
+    "fertilizerApplicationDays": {
+      "basal": "07/06/24",
+      "dayOne": "08/06/24",
+      "dayTwo": "17/06/24",
+      "dayThree": "06/07/24",
+      "dayFour": "18/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "19/06/24",
+      "dayTwo": "04/07/24"
+    },
+    "dateHarvesting": "23/07/24",
+    "yield": 1568.7
+  },
+  {
+    "UserId": "470d1b35-e6e8-404e-b649-f70cb7d6d15e",
+    "firstName": "Karen",
+    "lastName": "Brooks",
+    "pincode": 94745,
+    "aadharNumber": 70959171790,
+    "phoneNo": 7078017931,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.58,
+    "season": "Kharif",
+    "crop": "Lettuce",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 28.93
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "28/04/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "11/06/24",
+      "second": "05/07/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "12/07/24",
+      "dayTwo": "22/07/24",
+      "dayThree": "18/08/24",
+      "dayFour": "25/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "09/06/24",
+      "dayTwo": "24/06/24"
+    },
+    "dateHarvesting": "25/08/24",
+    "yield": 541.07
+  },
+  {
+    "UserId": "30954aef-f13c-46a4-bafd-7982b1967466",
+    "firstName": "Robin",
+    "lastName": "Wade",
+    "pincode": 32444,
+    "aadharNumber": 465998083907,
+    "phoneNo": 7491891918,
+    "villageName": "Mumbai",
+    "areaPloughed": 9.49,
+    "season": "Kharif",
+    "crop": "Cucumber",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 13.34
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "04/04/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "13/06/24",
+      "second": "25/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "21/06/24",
+      "dayOne": "25/06/24",
+      "dayTwo": "25/07/24",
+      "dayThree": "27/07/24",
+      "dayFour": "30/07/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "14/06/24",
+      "dayTwo": "29/06/24"
+    },
+    "dateHarvesting": "01/08/24",
+    "yield": 3044.2
+  },
+  {
+    "UserId": "b927515d-e5aa-42f1-af76-a31b29c0f8f9",
+    "firstName": "Michael",
+    "lastName": "Miller",
+    "pincode": 34495,
+    "aadharNumber": 770820476477,
+    "phoneNo": 7259732340,
+    "villageName": "Hyderabad",
+    "areaPloughed": 8.83,
+    "season": "Kharif",
+    "crop": "Carrot",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "iftr",
+      "quantity": 21.76
+    },
+    "landPreparation": 5,
+    "dateSown": {
+      "method": "Transplanting",
+      "onDate": "30/03/24"
+    },
+    "irrigationMethod": "Drip irrigation",
+    "WeedingSchedule": {
+      "first": "17/06/24",
+      "second": "17/07/24"
+    },
+    "fertilizers": "chemical",
+    "fertilizerApplicationDays": {
+      "basal": "15/06/24",
+      "dayOne": "22/06/24",
+      "dayTwo": "21/07/24",
+      "dayThree": "02/08/24",
+      "dayFour": "12/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "08/06/24",
+      "dayTwo": "23/06/24"
+    },
+    "dateHarvesting": "15/07/24",
+    "yield": 3385.28
+  },
+  {
+    "UserId": "cfd304b8-0896-4a84-80f0-02458e7d3011",
+    "firstName": "Lisa",
+    "lastName": "Brown",
+    "pincode": 18469,
+    "aadharNumber": 817486289985,
+    "phoneNo": 8095134040,
+    "villageName": "Mumbai",
+    "areaPloughed": 5.58,
+    "season": "Rabi",
+    "crop": "Banana",
+    "soilAnalysis": false,
+    "seedsUsed": {
+      "variety": "outside",
+      "quantity": 11.61
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "SRI",
+      "onDate": "05/02/24"
+    },
+    "irrigationMethod": "River",
+    "WeedingSchedule": {
+      "first": "01/06/24",
+      "second": "23/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "20/06/24",
+      "dayOne": "04/07/24",
+      "dayTwo": "02/08/24",
+      "dayThree": "22/08/24",
+      "dayFour": "21/09/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "09/06/24",
+      "dayTwo": "24/06/24"
+    },
+    "dateHarvesting": "06/05/24",
+    "yield": 2268.39
+  },
+  {
+    "UserId": "a247a9eb-0a63-4080-bd6d-36aba4b7358d",
+    "firstName": "Linda",
+    "lastName": "Sharp",
+    "pincode": 41500,
+    "aadharNumber": 693088651584,
+    "phoneNo": 9229222888,
+    "villageName": "Hyderabad",
+    "areaPloughed": 2.18,
+    "season": "Rabi",
+    "crop": "Potato",
+    "soilAnalysis": true,
+    "seedsUsed": {
+      "variety": "own",
+      "quantity": 11.74
+    },
+    "landPreparation": 4,
+    "dateSown": {
+      "method": "directSeeding",
+      "onDate": "16/06/24"
+    },
+    "irrigationMethod": "Well",
+    "WeedingSchedule": {
+      "first": "20/06/24",
+      "second": "24/06/24"
+    },
+    "fertilizers": "organic",
+    "fertilizerApplicationDays": {
+      "basal": "07/06/24",
+      "dayOne": "29/06/24",
+      "dayTwo": "14/07/24",
+      "dayThree": "19/07/24",
+      "dayFour": "07/08/24"
+    },
+    "cropprotectiondays": {
+      "dayOne": "13/06/24",
+      "dayTwo": "28/06/24"
+    },
+    "dateHarvesting": "25/09/24",
+    "yield": 3044.73
+  }
+]

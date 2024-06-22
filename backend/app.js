@@ -4,9 +4,10 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const authRoutes = require('./routes/auth');
 const ledgerRoutes = require('./routes/ledger');
+const cors = require('cors');
 const app = express();
 app.use(bodyParser.json());
-
+app.use(cors());
 // MongoDB connection
 mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,

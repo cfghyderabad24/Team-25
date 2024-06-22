@@ -10,12 +10,16 @@ import LoginWithOtp from './LoginWithOtp';
 import Home from './Home';
 import ChangePassword from './ChangePassword';
 import SoilAnalysisForm from './SoilAnalaysisForm';
+
+import Visual from './Visual';
+
 function App() {
   return (
     <div className="App">
       <Router>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/visual" element={<Visual/>}/>
           <Route path="/signup" element={<Signup />} />
           <Route path='/home' element={<Home/>}/>
           <Route path='/profile' element={<Profile/>}/>
@@ -26,6 +30,7 @@ function App() {
           <Route path="/soilanalysisform" element={<SoilAnalysisForm/>}/>
         </Routes>
       </Router>
+      
     </div>
   );
 }

@@ -33,10 +33,7 @@ function Navigation() {
     <>
       <Nav.Link href='/home'>Home</Nav.Link>
       <Nav.Link href='/profile'>Profile</Nav.Link>
-      <Nav.Link href='/recent-reports'>Recent Reports</Nav.Link>
-      <Nav.Link href='/expert-guidance'>Expert Guidance</Nav.Link>
-      <Nav.Link href='/upload-reports'>Upload Reports</Nav.Link>
-      <Nav.Link href='/create-farmer'>Create Farmer</Nav.Link>
+      <Nav.Link href='/recent-reports'>Recent-All-Reports</Nav.Link>
       <Nav.Link href='/queries-helping'>Queries Helping</Nav.Link>
       <Nav.Link href='/creating-user'>Creating User</Nav.Link>
       <Nav.Link href='/visualization'>Visualization</Nav.Link>
@@ -45,15 +42,26 @@ function Navigation() {
     </>
   );
 
-  const userLinks = (
+  const userFarmerLinks = (
     <>
       <Nav.Link href='/home'>Home</Nav.Link>
       <Nav.Link href='/profile'>Profile</Nav.Link>
       <Nav.Link href='/recent-reports'>Recent Reports</Nav.Link>
-      <Nav.Link href='/expert-guidance'>Expert Guidance</Nav.Link>
-      <Nav.Link href='/upload-reports'>Upload Reports</Nav.Link>
       <Nav.Link href='/queries-helping'>Queries Helping</Nav.Link>
-      <Nav.Link href='/visualization'>Visualization</Nav.Link>
+      <Nav.Link href='/visualization'>Yield-Visualization</Nav.Link>
+      <Nav.Link href='/farmer-volunteer-mapping'>Farmer-Volunteer Mapping</Nav.Link>
+      <Nav.Link href='/' onClick={logout} className='ms-auto'>Logout</Nav.Link>
+    </>
+  );
+
+  const volunteerLinks = (
+    <>
+      <Nav.Link href='/home'>Home</Nav.Link>
+      <Nav.Link href='/profile'>Profile</Nav.Link>
+      <Nav.Link href='/recent-reports'>Recent Reports</Nav.Link>
+      <Nav.Link href='/upload-reports'>Upload Reports</Nav.Link>
+      <Nav.Link href='/upload-reports'>Upload Post-Analysis-Form</Nav.Link>
+      <Nav.Link href='/queries-helping'>Queries Helping</Nav.Link>
       <Nav.Link href='/farmer-volunteer-mapping'>Farmer-Volunteer Mapping</Nav.Link>
       <Nav.Link href='/' onClick={logout} className='ms-auto'>Logout</Nav.Link>
     </>
@@ -64,6 +72,7 @@ function Navigation() {
       <Nav.Link href='/home'>Home</Nav.Link>
       <Nav.Link href='/'>Login</Nav.Link>
       <Nav.Link href='/signup'>Sign Up</Nav.Link>
+      <Nav.Link href='/visual'>Visual</Nav.Link>
     </>
   );
 
@@ -74,7 +83,7 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            {role === 'admin' ? adminLinks : role === 'user' ? userLinks : guestLinks}
+            {role === 'admin' ? adminLinks : role === 'volunteer' ? volunteerLinks : role === 'user' ? userFarmerLinks : guestLinks}
           </Nav>
         </Navbar.Collapse>
       </Container>

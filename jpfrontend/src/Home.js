@@ -22,7 +22,6 @@ const Home = () => {
         </Carousel.Item>
       </Carousel>
       </div>
-      <ChampStories/>
       <div className="container about-container">
         <h2 className="about-heading">About Us</h2>
         <p className="about-lead">Connecting Science and Technology with Development</p>
