@@ -4,13 +4,10 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const authRoutes = require('./routes/auth');
 const ledgerRoutes = require('./routes/ledger');
-<<<<<<< HEAD
 const cors = require('cors');
-=======
 const messageRoutes = require('./routes/message');
 const createLedgerRoutes= require('./routes/createLedger');
 
->>>>>>> 91694951c10ae78b4b548f183958c72835368892
 const app = express();
 app.use(bodyParser.json());
 app.use(cors());
