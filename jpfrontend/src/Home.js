@@ -3,6 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import './Home.css';
 import Footer from './Footer';
 import Navigation from './Navigation';
+import ChampStories from './ChampStories';
 
 const Home = () => {
   return (
@@ -21,7 +22,7 @@ const Home = () => {
         </Carousel.Item>
       </Carousel>
       </div>
-
+      <ChampStories/>
       <div className="container about-container">
         <h2 className="about-heading">About Us</h2>
         <p className="about-lead">Connecting Science and Technology with Development</p>
@@ -30,6 +31,7 @@ const Home = () => {
 
         </p>
       </div>
+      
 
       <Footer />
     </div>
