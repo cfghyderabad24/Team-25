@@ -13,6 +13,8 @@ import SoilAnalysisForm from './SoilAnalaysisForm';
 import RecentReports from './RecentReports';
 import PostAnalysisForm from './PostAnalysisForm';
 import YieldVisualization from './YieldVisualization';
+import ExpertGuidances from './ExpertGuidances';
+import RaiseRequest from './RaiseRequest';
 function App() {
   return (
     <div className="App">
@@ -30,6 +32,8 @@ function App() {
           <Route path="/recentreports" element={<RecentReports/>}/>
           <Route path="/postanalysisform" element={<PostAnalysisForm/>}/>
           <Route path="/yieldvisualization" element={<YieldVisualization/>}/>
+          <Route path="/expertguidances" element={<ExpertGuidances/>}/>
+          <Route path="/raise-request" element={<RaiseRequest/>}/>
         </Routes>
       </Router>
     </div>
