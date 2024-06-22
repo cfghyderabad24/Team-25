@@ -1,0 +1,26 @@
+.container-fluid {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  .card {
+    min-width: 300px;
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  .sign-up {
+    max-height: 90vh;
+    overflow-y: auto;
+    padding-right: 15px; /* Add padding to avoid cutting off content */
+  }
+  
+  @media (max-width: 768px) {
+    .row > .col-md-6 {
+      margin-bottom: 1rem;
+    }
+  }
+  
