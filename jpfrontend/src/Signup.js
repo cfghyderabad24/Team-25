@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import './Signup.css';
-
+import Navigation from "./Navigation";
 export default function Signup() {
   const navigate = useNavigate();
   const [credentials, setCredentials] = useState({ 
@@ -40,6 +40,8 @@ export default function Signup() {
   const onChange = (e) => setCredentials({ ...credentials, [e.target.name]: e.target.value });
 
   return (
+    <div>
+      <Navigation/>
     <div className="container-fluid vh-100 d-flex justify-content-center align-items-center bg-light">
       <div className="card shadow p-4">
         <h2 className="card-title text-center mb-4">Sign Up</h2>
@@ -106,6 +108,7 @@ export default function Signup() {
           </div>
         </form>
       </div>
+    </div>
     </div>
   );
 }
