@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-
+const bcrypt = require('bcryptjs');
 
 const UserSchema = new Schema({
     phoneNo: {
@@ -20,6 +20,7 @@ const UserSchema = new Schema({
     role: {
         type: String,
         required: true,
+        enum: ['admin', 'farmer']
     },
     gender: {
         type: String,
@@ -37,18 +38,19 @@ const UserSchema = new Schema({
         type: Schema.Types.ObjectId,
         ref: 'Ledger'
     },
-    otp: {
-        type: String
+    password: {
+        type: String,
+        required: true,
     }
 
 
 });
 
-UserSchema.methods.setOtp = function () {
-    const otp = Math.floor(100000 + Math.random() * 900000).toString(); // 6-digit OTP
-    this.otp = otp;
-    return this.save();
-  };
-
+UserSchema.pre('save', async function(next) {
+    if (this.isModified('password')) {
+        this.password = await bcrypt.hash(this.password, 10);
+    }
+    next();
+});
 
 module.exports = mongoose.model('User', UserSchema);

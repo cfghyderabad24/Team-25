@@ -1,53 +1,58 @@
 const express = require('express');
-const User = require('../models/user');
-const generateAndSendOtp = require('../utils/generateAndSendOtp');
-
 const router = express.Router();
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
+const User = require('../models/User');
 
-// Register route
+// Register
 router.post('/register', async (req, res) => {
-  try {
-    const { phoneNo, firstName, lastName, role, gender, age, language } = req.body;
+    try {
+        const { phoneNo, firstName, lastName, role, gender, age, language, password } = req.body;
 
-    const user = new User({ phoneNo, firstName, lastName, role, gender, age, language });
-    await user.save();
-    
-    res.status(201).json({ message: 'User registered successfully', user });
-  } catch (error) {
-    console.error('Error registering user:', error);
-    res.status(500).json({ error: 'User registration failed' });
-  }
-});
+        // Check if user already exists
+        let user = await User.findOne({ phoneNo });
+        if (user) {
+            return res.status(400).json({ error: 'User already exists' });
+        }
 
-// Login route (generate OTP)
-router.post('/login', async (req, res) => {
-  try {
-    const { phoneNo } = req.body;
-    await generateAndSendOtp(phoneNo);
-    
-    res.status(200).json({ message: 'OTP sent' });
-  } catch (error) {
-    console.error('Error logging in:', error);
-    res.status(500).json({ error: 'Login failed' });
-  }
-});
+        // Create new user
+        user = new User({ phoneNo, firstName, lastName, role, gender, age, language, password });
+        await user.save();
 
-// Verify OTP route
-router.post('/verify-otp', async (req, res) => {
-  try {
-    const { phoneNo, otp } = req.body;
-    const user = await User.findOne({ phoneNo });
-    if (!user) throw new Error('User not found');
-
-    if (user.otp !== otp) {
-      return res.status(400).json({ error: 'Invalid OTP' });
+        res.status(201).json({ message: 'User registered successfully' });
+    } catch (error) {
+        console.error('Error registering user:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
     }
+});
 
-    res.status(200).json({ message: 'OTP verified', user });
-  } catch (error) {
-    console.error('Error verifying OTP:', error);
-    res.status(500).json({ error: 'OTP verification failed' });
-  }
+// Login
+router.post('/login', async (req, res) => {
+    try {
+        const { phoneNo, password } = req.body;
+
+        // Check if user exists
+        const user = await User.findOne({ phoneNo });
+        if (!user) {
+            return res.status(400).json({ error: 'Invalid credentials' });
+        }
+
+        // Validate password
+        const isMatch = await bcrypt.compare(password, user.password);
+        if (!isMatch) {
+            return res.status(400).json({ error: 'Invalid credentials' });
+        }
+
+        // Generate JWT
+        const token = jwt.sign({ userId: user._id, role: user.role }, process.env.JWT_SECRET, {
+            expiresIn: '1h'
+        });
+
+        res.status(200).json({ token });
+    } catch (error) {
+        console.error('Error logging in user:', error);
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
 });
 
 module.exports = router;
