@@ -11,7 +11,9 @@ function ChampCard(props) {
         <Card.Text>
           {props.text}
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Card.Text>
+          {props.name}
+        </Card.Text>
       </Card.Body>
     </Card>
     </div>

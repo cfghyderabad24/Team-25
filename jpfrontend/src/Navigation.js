@@ -4,6 +4,7 @@ import Axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 function Navigation() {
   const navigate = useNavigate();
   const [role, setRole] = useState(null);
@@ -70,9 +71,14 @@ function Navigation() {
   const guestLinks = (
     <>
       <Nav.Link href='/home'>Home</Nav.Link>
-      <Nav.Link href='/'>Login</Nav.Link>
+      <Nav.Link href='/login'>Login</Nav.Link>
       <Nav.Link href='/signup'>Sign Up</Nav.Link>
       <Nav.Link href='/visual'>Visual</Nav.Link>
+      <Nav.Link href='/weather'>Weather</Nav.Link>
+      {/* <Nav.Link href='/soilAnalysis'>Soil Analysis Form</Nav.Link> */}
+      {/* <Nav.Link href='/yeildVisu'>Yeild Visualisation</Nav.Link> */}
+      <Nav.Link href='/rec'>Recent Reports</Nav.Link>
+      
     </>
   );
 
@@ -83,6 +89,7 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
+             
             {role === 'admin' ? adminLinks : role === 'volunteer' ? volunteerLinks : role === 'user' ? userFarmerLinks : guestLinks}
           </Nav>
         </Navbar.Collapse>

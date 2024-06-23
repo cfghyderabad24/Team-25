@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.card-container {
+  display: flex;
+  overflow-x: auto; /* Makes the container scrollable horizontally */
+  gap: 16px;
+  padding: 20px;
+}
+
+.card {
+  flex: 0 0 auto; /* Prevents cards from shrinking and keeps them the same size */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 18rem; /* Ensures all cards are the same width */
+  text-align: center;
+}

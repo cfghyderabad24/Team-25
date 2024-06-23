@@ -10,8 +10,11 @@ import LoginWithOtp from './LoginWithOtp';
 import Home from './Home';
 import ChangePassword from './ChangePassword';
 import SoilAnalysisForm from './SoilAnalaysisForm';
-
+import WeatherSee from './WeatherSee'
 import Visual from './Visual';
+// import SoilAnalysisForm from './SoilAnalaysisForm'
+// import YieldVisualization from './YieldVisualization';
+import RecentReports from './RecentReports';
 
 function App() {
   return (
@@ -28,6 +31,12 @@ function App() {
           <Route path='/loginwithotp' element={<LoginWithOtp/>}/>
           <Route path='/changepassword' element={<ChangePassword/>}/>
           <Route path="/soilanalysisform" element={<SoilAnalysisForm/>}/>
+          <Route path="/login" element={<Login />} />
+          <Route path="/weather" element={<WeatherSee />} />
+          {/* <Route path="/yeildVisu" element={<YieldVisualization/>} /> */}
+          {/* <Route path='/soilAnalysis' element={<SoilAnalysisForm/>}/> */}
+          <Route path="/rec" element={<RecentReports />} />
+
         </Routes>
       </Router>
       

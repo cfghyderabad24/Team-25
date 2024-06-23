@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import Navigation from "./Navigation";
 import './Signup.css';
 
 export default function Signup() {
@@ -40,7 +41,9 @@ export default function Signup() {
   const onChange = (e) => setCredentials({ ...credentials, [e.target.name]: e.target.value });
 
   return (
-    <div className="container-fluid vh-100 d-flex justify-content-center align-items-center bg-light">
+   <div>
+    <Navigation/>
+     <div className="container-fluid vh-100 d-flex justify-content-center align-items-center bg-light">
       <div className="card shadow p-4">
         <h2 className="card-title text-center mb-4">Sign Up</h2>
         <form onSubmit={handleSubmit} className="sign-up">
@@ -107,5 +110,6 @@ export default function Signup() {
         </form>
       </div>
     </div>
+   </div>
   );
 }

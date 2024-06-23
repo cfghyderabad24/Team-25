@@ -21,6 +21,8 @@ const Home = () => {
           <img className="d-block w-100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCpU0qDxI5_GR2UrVp5xvS9lXr68EWToSvQ&s" alt="Third slide" />
         </Carousel.Item>
       </Carousel>
+      <br/>
+      <ChampStories/>
       </div>
       <div className="container about-container">
         <h2 className="about-heading">About Us</h2>
@@ -36,5 +38,4 @@ const Home = () => {
     </div>
   );
 }
-
 export default Home;

@@ -39,7 +39,7 @@ export default function Login() {
 
   return (
     <div>
-      <Navigation/>
+    <Navigation/>
     <div className="container mt-5 d-flex justify-content-center align-items-center min-vh-100">
       <div className="card p-4 shadow" style={{ maxWidth: "400px", width: "100%" }}>
         <h2 className="text-center mb-4">Login</h2>
