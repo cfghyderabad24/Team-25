@@ -6,11 +6,16 @@ const authRoutes = require('./routes/auth');
 const ledgerRoutes = require('./routes/ledger');
 const messageRoutes = require('./routes/message');
 const createLedgerRoutes= require('./routes/createLedger');
-
+const cors=require('cors');
 const app = express();
 app.use(bodyParser.json());
-
+app.use(cors({
+    origin: 'http://localhost:3001', // replace with your frontend's origin
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    credentials: true
+  }));
 // MongoDB connection
+
 mongoose.connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
